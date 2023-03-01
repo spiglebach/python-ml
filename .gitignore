@@ -1,4 +1,5 @@
 .idea
 **/*.iml
 course_notebooks
+computer_vision
 venv
